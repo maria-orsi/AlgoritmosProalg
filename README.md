@@ -1,2 +1,3 @@
 # AlgoritmosProalg
-algoritmos variaveis  e operadores aritmeticos
+-algoritmos variaveis  e operadores aritmeticos
+-Scratch
