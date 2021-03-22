@@ -1,7 +1,7 @@
-Programas do Scratch - aula Variaveis
+_Programas do Scratch - aula Variaveis_
 # https://scratch.mit.edu/projects/500213991
 ------------------------------------------------
-Variaveis e constantes aula 22-03
+_Variaveis e constantes aula 22-03_
 Conversão de dólar
 ## https://scratch.mit.edu/projects/504974021
 
@@ -10,3 +10,5 @@ Conversão fahrenheit em Celsius
 
 Armazenar Variavel
 ## https://scratch.mit.edu/projects/505024661
+-------------------------------------------------
+_Sequencia lógica_
