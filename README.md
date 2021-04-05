@@ -12,4 +12,4 @@ Armazenar Variavel
 ## https://scratch.mit.edu/projects/505024661
 -------------------------------------------------
 _Sequencia lógica_
-## https://drive.google.com/file/d/1AEtPym5mb_ClSb06ma_lt0PqI6uAvUQF/view?usp=drivesdk
+## https://drive.google.com/file/d/1AEtPym5mb_ClSb06ma_lt0PqI6uAvUQF/view?usp=sharing
