@@ -1,0 +1,21 @@
+Algoritmo "VALOR.CARRO"
+// 
+//  
+// Descrição   : .
+// Autor(a)    : Maria Eduarda Orsi P.
+// Data atual  : 08/04/2021
+Var
+preco, imposto, distr: real
+resultado, valorfinal: real
+
+Inicio
+
+escreval("Qual é o custo de fábrica do carro? ")
+leia (preco)
+imposto <- preco * 0,45
+resultado <- preco + imposto
+distr <- resultado * 0.28
+valorfinal <- resultado + distribuicao
+
+"O preço para o consumidor será: R$", valorfinal)
+Fimalgoritmo
