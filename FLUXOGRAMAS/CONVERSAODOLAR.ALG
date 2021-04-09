@@ -1,7 +1,7 @@
 Algoritmo "realEmDolar"
 // 
 //  
-// Descrição   : este programa converte real em dólar
+// DescriÃ§Ã£o   : este programa converte real em dÃ³lar
 // Autor(a)    : Maria Eduarda Orsi
 // Data atual  : 22/03/2021
 Var
@@ -10,8 +10,8 @@ valor, dolar, result: real
 
 Inicio
 //entrada
-escreval ("---este programa converte real em dólar---")
-escreval ("valor do dólar comercial hoje:")
+escreval ("---este programa converte real em dÃ³lar---")
+escreval ("valor do dÃ³lar comercial hoje:")
 leia (dolar)
 escreval ("quantos reais quer converter:")
 leia (valor)
@@ -19,7 +19,7 @@ leia (valor)
 //processamento
  result <- (valor/dolar)
  
- escreval ("R$",valor ,"equivale á $", result, "dólares")
+ escreval ("R$",valor ,"equivale Ã¡ $", result, "dÃ³lares")
 
 
 Fimalgoritmo
