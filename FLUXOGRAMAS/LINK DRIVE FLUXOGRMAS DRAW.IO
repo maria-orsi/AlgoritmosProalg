@@ -1,9 +1,6 @@
 CONVERSÃO DOLAR
 # https://drive.google.com/file/d/1zlUgHm_7-nlbLrr43AjpSFoff2w3V8TQ/view?usp=sharing
 ---------------------------------------------------------------------------------------
-POTENCIA
-#
----------------------------------------------------------------------------------------
 COMISSÃO
 # https://drive.google.com/file/d/1-TPX24XZMx7oSYhnhX3aaYdVmievE2q8/view?usp=sharing
 ---------------------------------------------------------------------------------------
