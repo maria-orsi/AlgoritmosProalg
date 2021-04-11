@@ -1,7 +1,7 @@
 Algoritmo "VALOR.CARRO"
 // 
 //  
-// DescriÁ„o   : .
+// Descri√ß√£o   : .
 // Autor(a)    : Maria Eduarda Orsi P.
 // Data atual  : 08/04/2021
 Var
@@ -10,12 +10,12 @@ resultado, valorfinal: real
 
 Inicio
 
-escreval("Qual È o custo de f·brica do carro? ")
+escreval("Qual √© o custo de f√°brica do carro? ")
 leia (preco)
 imposto <- preco * 0,45
 resultado <- preco + imposto
 distr <- resultado * 0.28
 valorfinal <- resultado + distribuicao
 
-"O preÁo para o consumidor ser·: R$", valorfinal)
+"O pre√ßo para o consumidor ser√°: R$", valorfinal)
 Fimalgoritmo
